@@ -12,5 +12,6 @@ Command Line:
 -------How To Do Allure----------
 Step 1: 'ReportData/allure-results'
 Step 2: allure generate ReportData/allure-results
+        allure generate --clean ReportData/allure-results    
 Step 3: allure open 
 
